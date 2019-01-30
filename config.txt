@@ -1,6 +1,6 @@
-token= 111111
-owner= 490320866391883788
-prefix= 1
-game= 1play
-stayinchannel=false
-songinstatus=false
+token= NTQwMjI3MDg3MzMyNjcxNTI4.DzOBpw.8cGEYSuAst9qU-3vKd3w8nSw0lY
+owner= 469984226876325896
+prefix= 4
+game= By|hamed|4help
+stayinchannel= true
+songinstatus= true
